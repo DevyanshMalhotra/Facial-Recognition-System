@@ -3,7 +3,7 @@ An attendance management system utilizing face recognition technology. This Pyth
 
 ## Installation
 
-1. Clone the repository.
+1. Clone the repository: https://github.com/DevyanshMalhotra/Facial-Recognition-Based-Attendance-System.git
 2. Install the required packages: pip install -r requirements.txt
 3. Press 'q' to exit the application.
 
