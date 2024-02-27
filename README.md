@@ -12,3 +12,14 @@ An attendance management system utilizing face recognition technology. This Pyth
 1. Make sure your webcam is connected to your computer.
 2. Run the script: python attendance_system.py
 
+## Known Faces
+
+You need to provide images of known faces in the `photos` directory. Follow the example provided in the `load_known_faces` function in `attendance_system.py` to load known faces and their encodings.
+
+## Output
+
+The attendance records are saved in CSV files named according to the date of attendance.
+
+## License
+
+This project is licensed under the MIT License.
