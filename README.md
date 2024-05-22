@@ -1,9 +1,9 @@
-# Facial-Recognition-Based-Attendance-System
-An attendance management system utilizing face recognition technology. This Python script captures video from a webcam, detects faces, matches them with known faces, and records attendance with timestamps in a CSV file. The system is designed for simplicity and efficiency, providing an automated solution for tracking attendance in various settings but this python script is a very basic script capable of just recognizing face.
+# Facial-Recognition-System
+This Python script captures video from a webcam, detects faces, matches them with known faces, and records attendance with timestamps in a CSV file. The system is designed for simplicity and efficiency, providing an automated solution for tracking attendance in various settings but this python script is a very basic script capable of just recognizing face.
 
 ## Installation
 
-1. Clone the repository: https://github.com/DevyanshMalhotra/Facial-Recognition-Based-Attendance-System.git
+1. Clone the repository: https://github.com/DevyanshMalhotra/Facial-Recognition-System.git
 2. Install the required packages: pip install -r requirements.txt
 3. Press 'q' to exit the application.
 
@@ -14,7 +14,7 @@ An attendance management system utilizing face recognition technology. This Pyth
 
 ## Known Faces
 
-You need to provide images of known faces in the `photos` directory. Follow the example provided in the `load_known_faces` function in `attendance_system.py` to load known faces and their encodings.
+You need to provide images of known faces in the `photos` directory. Follow the example provided in the `load_known_faces` function in `recognition_system.py` to load known faces and their encodings.
 
 ## Output
 
